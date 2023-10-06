@@ -1,0 +1,105 @@
+from tkinter import *
+
+#Creating a root window for having layout
+
+root = Tk()
+
+root.title("Calculator")
+
+operator=""
+
+text_Input =StringVar()
+
+
+
+def buttonclick(numbers):
+
+        #function to make buttons work
+
+	global operator
+
+	operator=operator+str(numbers)
+
+	text_Input.set(operator)
+
+def buttonC():
+
+        #Function to clear all entries 
+
+	global operator
+
+	operator=""
+
+	text_Input.set("")
+
+def buttonequal():
+
+       #function to calculate values 
+
+	global operator
+
+	sumup=str(eval(operator))
+
+	text_Input.set(sumup)
+
+	operator=sumup
+
+	buttonclick
+
+	
+
+
+
+fm = Frame(root)
+
+fm.pack(fill=BOTH)
+
+#creating screen to show some values
+
+entry = Entry(fm,fg="black",font=("cabri",25,"bold"),textvariable=text_Input,bg="powder blue",justify=RIGHT).grid(columnspan=4)
+
+
+
+button7 = Button(fm,padx=30,pady=30,text="7",fg="black",bd=8,command=lambda:buttonclick(7),activebackground="blue").grid(row=1,column=0)
+
+button8 = Button(fm,padx=30,pady=30,text="8",fg="black",bd=8,command=lambda:buttonclick(8)).grid(row=1,column=1)
+
+button9 = Button(fm,padx=30,pady=30,text="9",fg="black",bd=8,command=lambda:buttonclick(9)).grid(row=1,column=2)
+
+buttonx = Button(fm,padx=30,pady=30,text="+",fg="black",bd=8,command=lambda:buttonclick("+")).grid(row=1,column=3)
+
+#=====================================================================================================================================================
+
+button4 = Button(fm,padx=30,pady=30,text="4",fg="black",bd=8,command=lambda:buttonclick(4)).grid(row=2,column=0)
+
+button5 = Button(fm,padx=30,pady=30,text="5",fg="black",bd=8,command=lambda:buttonclick(5)).grid(row=2,column=1)
+
+button6 = Button(fm,padx=30,pady=30,text="6",fg="black",bd=8,command=lambda:buttonclick(6)).grid(row=2,column=2)
+
+buttony = Button(fm,padx=30,pady=30,text="-",fg="black",bd=8,command=lambda:buttonclick("-")).grid(row=2,column=3)
+
+#=====================================================================================================================================================
+
+button1 = Button(fm,padx=30,pady=30,text="1",fg="black",bd=8,command=lambda:buttonclick(1)).grid(row=3,column=0)
+
+button2 = Button(fm,padx=30,pady=30,text="2",fg="black",bd=8,command=lambda:buttonclick(2)).grid(row=3,column=1)
+
+button3 = Button(fm,padx=30,pady=30,text="3",fg="black",bd=8,command=lambda:buttonclick(3)).grid(row=3,column=2)
+
+buttonz = Button(fm,padx=30,pady=30,text="X",fg="black",bd=8,command=lambda:buttonclick("*")).grid(row=3,column=3)
+
+#=====================================================================================================================================================
+
+button0 = Button(fm,padx=30,pady=30,text="0",fg="black",bd=8,command=lambda:buttonclick(0)).grid(row=4,column=0)
+
+buttonh = Button(fm,padx=30,pady=30,text=".",fg="black",bd=8,command=lambda:buttonclick(".")).grid(row=4,column=1)
+
+buttonC = Button(fm,padx=30,pady=30,text="C",fg="black",bd=8,command= buttonC).grid(row=4,column=2)
+
+button = Button(fm,padx=30,pady=30,text="/",fg="black",bd=8,command=lambda:buttonclick("/")).grid(row=4,column=3)
+
+equal = Button(fm,padx=165,pady=30,text="=",fg= "black",bd=8,command=buttonequal).grid(row=5,columnspan=4)
+
+
+
+root.mainloop()
