@@ -2,11 +2,7 @@
 
 🚀 Aspiring tech enthusiast | Project Manager | Web Content Writer | Software Developer | Data Analyst
 
-🏡 Based in West Delhi, India 🇮🇳
-
-📧 Contact: singhyashvardhan582@gmail.com | 📞 Phone: +91 9873398095
-
-🌐 Connect with me on LinkedIn for professional networking.
+🌐 Connect with me on LinkedIn for professional networking. https://www.linkedin.com/in/yashvardhan-singh-2a237b244/
 
 🚀 Check out my GitHub repository for a glimpse of my coding adventures: GitHub Profile
 
