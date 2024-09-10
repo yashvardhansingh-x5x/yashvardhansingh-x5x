@@ -1,4 +1,4 @@
-<p><img align="center"  src="https://www.shutterstock.com/image-vector/programmer-work-concept-banner-software-260nw-1641315988.jpg"
+<p><img align="center" width="800" src="https://www.shutterstock.com/image-vector/programmer-work-concept-banner-software-260nw-1641315988.jpg"
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashvardhan Singh</h1>
