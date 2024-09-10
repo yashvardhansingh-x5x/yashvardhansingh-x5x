@@ -1,5 +1,4 @@
-<p><img src="h[ttps://www.careergirls.org/careers/computer-programmer/](https://www.google.com/imgres?q=free%20image%20link%20for%20programmer&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F008%2F612%2F703%2Fsmall%2Fhtml-code-on-computer-monitor-software-web-developer-programming-code-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fweb-development&docid=gjbukr3U38cPtM&tbnid=tXxDss3IWjJgNM&vet=12ahUKEwj80a3_tbiIAxUDh68BHVdrHQ0QM3oECH0QAA..i&w=356&h=200&hcb=2&ved=2ahUKEwj80a3_tbiIAxUDh68BHVdrHQ0QM3oECH0QAA)"
-
+<p><img align="center"  src="https://pixabay.com/images/search/programming/"
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashvardhan Singh</h1>
