@@ -1,5 +1,4 @@
-<p><img align="center"  src="![Uploading image.png…]()
-"
+<p><img align="center"  src="https://t3.ftcdn.net/jpg/06/84/18/58/360_F_684185884_eKq0i4Ua9GrwKUfluonwGE5xjwxHGyvW.jpg"
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashvardhan Singh</h1>
