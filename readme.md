@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.imgur.com/qpFBbmO.gif" alt="gaming" align="center">
+  <img src="[https://i.imgur.com/qpFBbmO.gif" alt="gaming" align="center](https://www.careergirls.org/careers/computer-programmer/)">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashvardhan Singh</h1>
