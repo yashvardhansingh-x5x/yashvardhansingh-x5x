@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile%20views&color=0e75b6&style=flat" alt="yashvardhansingh-x5x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x" alt="yashvardhansingh-x5x" /></a> </p>
 
 - 🔭 I’m currently working on **Web Dev projects**
 
@@ -22,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&locale=en" alt="yashvardhansingh-x5x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh-x5x&" alt="yashvardhansingh-x5x" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
