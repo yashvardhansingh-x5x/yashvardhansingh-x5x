@@ -1,15 +1,5 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashvardhan%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%26%20Data%20Science%20Enthusiast%20🇮🇳&descAlignY=55&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+🚀;Data+Science+%26+ML+Explorer+🤖;Building+Models+%26+Web+Apps+🛠️;Deep+Learning+%7C+NLP+%7C+Data+Viz+📊;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/yashvardhansingh-x5x?tab=followers">
-  <img src="https://img.shields.io/github/followers/yashvardhansingh-x5x?label=Followers&style=for-the-badge&color=0e75b6" />
-</a>
-
+  <img src="./header.png" width="100%" alt="Header"/>
 </div>
 
 ---
@@ -20,13 +10,15 @@
 class Yashvardhan:
     def __init__(self):
         self.name       = "Yashvardhan Singh"
-        self.location   = "India 🇮🇳"
-        self.roles      = ["Full Stack Web Developer", "Data Science Enthusiast"]
-        self.focus      = ["Web Dev Projects", "Machine Learning", "Deep Learning", "NLP"]
-        self.learning   = ["Full Stack Development", "Data Science", "AI/ML"]
-        self.tools      = ["Python", "TensorFlow", "React", "Node.js", "Jupyter"]
+        self.location   = "India"
+        self.roles      = ["Full Stack Developer", "Data Science Enthusiast", "DevOps Engineer"]
+        self.focus      = ["Web Apps", "Machine Learning", "Deep Learning", "NLP", "Cloud & CI/CD"]
+        self.learning   = ["Full Stack Dev", "Data Science", "AI/ML", "DevOps & Cloud"]
+        self.devops     = ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "AWS", "Terraform"]
+        self.ds_tools   = ["Python", "TensorFlow", "Scikit-Learn", "Pandas", "NumPy", "Jupyter"]
+        self.web_tools  = ["React", "Node.js", "Express", "MongoDB", "MySQL"]
         self.contact    = "singhyashvardhan582@gmail.com"
-        self.fun_fact   = "Too serious about distraction 😄"
+        self.fun_fact   = "Too serious about distraction"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together.")
@@ -35,10 +27,11 @@ me = Yashvardhan()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **Web Dev & Data Science projects**
-- 🌱 Currently learning **Full Stack Development, Machine Learning & Deep Learning**
-- 🤖 Exploring **NLP, Data Visualization & AI**
-- 💬 Ask me about **Web Dev, Python, or anything you're curious about!**
+- 🔭 Currently working on **Web Dev, Data Science & DevOps projects**
+- 🌱 Currently learning **Full Stack, ML/Deep Learning & Cloud Infrastructure**
+- 🐳 Building with **Docker, Kubernetes & CI/CD pipelines**
+- ☁️ Exploring **AWS / Azure / GCP & Infrastructure as Code**
+- 🤖 Into **NLP, Data Visualization & AI**
 - 📫 Reach me at **singhyashvardhan582@gmail.com**
 - ⚡ Fun fact: **Too serious about distraction**
 
@@ -67,6 +60,19 @@ me.say_hi()
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### 🐳 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ### 🗄️ Databases & Dev Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -74,7 +80,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -84,12 +89,12 @@ me.say_hi()
 
 <div align="center">
 
-| 🌐 Web Development | 🤖 Data Science & AI |
-|:---:|:---:|
-| Full Stack Applications | Machine Learning Models |
-| REST APIs & Backend | Deep Learning & Neural Nets |
-| Responsive UI/UX | Natural Language Processing |
-| Database Design | Data Analysis & Visualization |
+| 🌐 Web Development | 🤖 Data Science & AI | 🐳 DevOps & Cloud |
+|:---:|:---:|:---:|
+| Full Stack Applications | Machine Learning Models | Docker & Kubernetes |
+| REST APIs & Backend | Deep Learning & Neural Nets | CI/CD Pipelines |
+| Responsive UI/UX | Natural Language Processing | AWS / Azure / GCP |
+| Database Design | Data Analysis & Visualization | Terraform & Ansible |
 
 </div>
 
@@ -121,13 +126,27 @@ me.say_hi()
 ## 📈 Skills Progress
 
 ```
-Machine Learning     ████████████░░░░  75% 🚀
-Deep Learning        ████████░░░░░░░░  50% 📈
-Data Visualization   ██████████████░░  85% 📊
-NLP                  ██████░░░░░░░░░░  40% 🔤
-Web Development      █████████████░░░  80% 🌐
-SQL & Databases      ███████████████░  90% 🗄️
+Web Development      █████████████░░░  80%
+SQL & Databases      ███████████████░  90%
+Docker & K8s         ██████████░░░░░░  65%
+CI/CD Pipelines      ██████████░░░░░░  65%
+Cloud (AWS/GCP)      █████████░░░░░░░  55%
+Terraform/Ansible    ████████░░░░░░░░  50%
+Machine Learning     ████████████░░░░  75%
+Deep Learning        ████████░░░░░░░░  50%
+Data Visualization   ██████████████░░  85%
+NLP                  ██████░░░░░░░░░░  40%
 ```
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yashvardhansingh-x5x)
+
+</div>
 
 ---
 
@@ -135,10 +154,10 @@ SQL & Databases      ███████████████░  90% 🗄�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvardhan-singh-2a237b244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvardhan-singh-data)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhansingh-x5x)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhyashvardhan582@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashvardhansingh05)
 
 </div>
 
@@ -146,20 +165,8 @@ SQL & Databases      ███████████████░  90% 🗄�
 
 <div align="center">
 
-### 🐍 Contribution Snake
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&text=Build%20it.%20Ship%20it.%20Scale%20it.&fontSize=16&fontColor=6AD3F7&animation=twinkling)
 
-![Snake animation](https://github.com/yashvardhansingh-x5x/yashvardhansingh-x5x/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-*"Data is the new oil, and code is the engine."* 🚀
-
-**⭐️ From [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x) — Thanks for visiting!**
+**From [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x) — Thanks for visiting!**
 
 </div>
