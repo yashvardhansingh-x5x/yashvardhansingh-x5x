@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Header"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=220&section=header&text=Yashvardhan%20Singh&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=6AD3F7&stroke=6AD3F7&strokeWidth=0.8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Data+Science+%26+ML+Explorer;DevOps+%7C+Docker+%7C+Kubernetes+%7C+Cloud;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Deep+Learning+%7C+NLP+%7C+Data+Viz;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/yashvardhansingh-x5x?tab=followers">
+  <img src="https://img.shields.io/github/followers/yashvardhansingh-x5x?label=Followers&style=for-the-badge&color=0e75b6"/>
+</a>
+
 </div>
 
 ---
@@ -10,7 +19,7 @@
 class Yashvardhan:
     def __init__(self):
         self.name       = "Yashvardhan Singh"
-        self.location   = "India"
+        self.location   = "India 🇮🇳"
         self.roles      = ["Full Stack Developer", "Data Science Enthusiast", "DevOps Engineer"]
         self.focus      = ["Web Apps", "Machine Learning", "Deep Learning", "NLP", "Cloud & CI/CD"]
         self.learning   = ["Full Stack Dev", "Data Science", "AI/ML", "DevOps & Cloud"]
@@ -21,7 +30,7 @@ class Yashvardhan:
         self.fun_fact   = "Too serious about distraction"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+        print("Thanks for stopping by! Let's build something amazing together. 🚀")
 
 me = Yashvardhan()
 me.say_hi()
@@ -31,7 +40,7 @@ me.say_hi()
 - 🌱 Currently learning **Full Stack, ML/Deep Learning & Cloud Infrastructure**
 - 🐳 Building with **Docker, Kubernetes & CI/CD pipelines**
 - ☁️ Exploring **AWS / Azure / GCP & Infrastructure as Code**
-- 🤖 Into **NLP, Data Visualization & AI**
+- 🤖 Passionate about **NLP, Data Visualization & AI**
 - 📫 Reach me at **singhyashvardhan582@gmail.com**
 - ⚡ Fun fact: **Too serious about distraction**
 
@@ -100,29 +109,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh-x5x&theme=tokyonight&hide_border=true" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Skills Progress
 
 ```
@@ -140,11 +126,46 @@ NLP                  ██████░░░░░░░░░░  40%
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh-x5x&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
 ## 📅 Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yashvardhansingh-x5x)
+
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -165,8 +186,7 @@ NLP                  ██████░░░░░░░░░░  40%
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&text=Build%20it.%20Ship%20it.%20Scale%20it.&fontSize=16&fontColor=6AD3F7&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=100&section=footer&text=Build%20it.%20Ship%20it.%20Scale%20it.&fontSize=16&fontColor=6AD3F7&animation=twinkling)
 
-**From [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x) — Thanks for visiting!**
-
+**Thanks for visiting! — [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x)** 🚀
 </div>
