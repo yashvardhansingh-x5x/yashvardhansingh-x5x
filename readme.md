@@ -26,7 +26,7 @@ class Yashvardhan:
         self.devops     = ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "AWS", "Terraform"]
         self.ds_tools   = ["Python", "TensorFlow", "Scikit-Learn", "Pandas", "NumPy", "Jupyter"]
         self.web_tools  = ["React", "Node.js", "Express", "MongoDB", "MySQL"]
-        self.contact    = "singhyashvardhan582@gmail.com"
+        self.contact    = "yashvardhansingh.professional@gmail.com"
         self.fun_fact   = "Too serious about distraction"
 
     def say_hi(self):
