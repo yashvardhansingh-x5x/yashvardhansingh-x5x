@@ -41,7 +41,7 @@ me.say_hi()
 - 🐳 Building with **Docker, Kubernetes & CI/CD pipelines**
 - ☁️ Exploring **AWS / Azure / GCP & Infrastructure as Code**
 - 🤖 Passionate about **NLP, Data Visualization & AI**
-- 📫 Reach me at **singhyashvardhan582@gmail.com**
+- 📫 Reach me at **yashvardhansingh.professional@gmail.com**
 - ⚡ Fun fact: **Too serious about distraction**
 
 ---
