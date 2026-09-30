@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=220&section=header&text=Yashvardhan%20Singh&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Product%20Engineer%20%7C%20Full%20Stack%20%26%20App%20Dev%20%7C%20AI-Powered%20Products&descAlignY=58&descSize=18&descColor=6AD3F7&stroke=6AD3F7&strokeWidth=0.8)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Product+Engineer;Next.js+%7C+React+%7C+Tailwind+%7C+GSAP;Spring+Boot+%7C+Spring+Security+%7C+REST+APIs;PostgreSQL+%7C+Vector+Search+%7C+System+Design;Flutter+%7C+Cross-Platform+App+Development;AI+Features+%7C+LLMs+%7C+Automation;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;Idea+%E2%86%92+Prototype+%E2%86%92+Production)](https://git.io/typing-svg)
+<img src="./assets/header.svg" width="100%" alt="Yashvardhan Singh - Product Engineer"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I'm+Yashvardhan+%F0%9F%91%8B;Product+Engineer+%E2%80%94+idea+%E2%86%92+prototype+%E2%86%92+production;Next.js+%7C+Tailwind+%7C+GSAP+%E2%86%92+pixel-perfect+UIs;Spring+Boot+%7C+Spring+Security+%E2%86%92+secure+backends;Flutter+%E2%86%92+apps+for+Android+%26+iOS;PostgreSQL+%2B+pgvector+%E2%86%92+AI+that+remembers;Docker+%7C+Kubernetes+%7C+CI%2FCD+%E2%86%92+ship+with+confidence)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -71,7 +71,7 @@ const yashvardhan = {
 ### 🧠 AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -80,10 +80,10 @@ const yashvardhan = {
 ### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -95,7 +95,7 @@ const yashvardhan = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -140,42 +140,37 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh-x5x&theme=tokyonight&hide_border=true" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
 
-<br/><br/>
+<br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 
-</div>
+<br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<img width="60%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
 ---
 
-## 📅 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yashvardhansingh-x5x)
+<img src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
 ---
 
-## 💡 Dev Quote of the Day
+## 💡 How I Build
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Make it work, make it right, make it fast — then ship it."*
 
 </div>
 
@@ -196,7 +191,7 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=100&section=footer&text=Build%20it.%20Ship%20it.%20Scale%20it.&fontSize=16&fontColor=6AD3F7&animation=twinkling)
+<img src="./assets/footer.svg" width="100%" alt="Build it. Ship it. Scale it."/>
 
 **Thanks for visiting! — [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x)** 🚀
 </div>
