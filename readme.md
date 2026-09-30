@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=220&section=header&text=Yashvardhan%20Singh&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Product%20Engineer%20%7C%20Full%20Stack%20%7C%20AI-Powered%20Products&descAlignY=58&descSize=18&descColor=6AD3F7&stroke=6AD3F7&strokeWidth=0.8)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Product+Engineer;Next.js+%7C+React+%7C+Tailwind+%7C+GSAP;Spring+Boot+%7C+REST+APIs+%7C+System+Design;AI+Features+%7C+LLMs+%7C+Automation;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;Idea+%E2%86%92+Prototype+%E2%86%92+Production)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=220&section=header&text=Yashvardhan%20Singh&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Product%20Engineer%20%7C%20Full%20Stack%20%26%20App%20Dev%20%7C%20AI-Powered%20Products&descAlignY=58&descSize=18&descColor=6AD3F7&stroke=6AD3F7&strokeWidth=0.8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Product+Engineer;Next.js+%7C+React+%7C+Tailwind+%7C+GSAP;Spring+Boot+%7C+Spring+Security+%7C+REST+APIs;PostgreSQL+%7C+Vector+Search+%7C+System+Design;Flutter+%7C+Cross-Platform+App+Development;AI+Features+%7C+LLMs+%7C+Automation;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;Idea+%E2%86%92+Prototype+%E2%86%92+Production)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -23,8 +23,10 @@ const yashvardhan = {
   location: "India 🇮🇳",
   role: "Product Engineer",
   frontend: ["Next.js", "React", "Tailwind CSS", "GSAP"],
-  backend: ["Spring Boot", "REST APIs", "MySQL", "MongoDB"],
-  ai: ["LLM integrations", "Python", "TensorFlow", "Scikit-Learn"],
+  backend: ["Spring Boot", "Spring Security", "REST APIs"],
+  apps: ["Flutter", "Dart", "Android", "iOS"],
+  data: ["PostgreSQL", "pgvector", "MySQL", "MongoDB"],
+  ai: ["LLM integrations", "Vector search / RAG", "Python", "TensorFlow", "Scikit-Learn"],
   devops: ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "AWS", "GCP", "Terraform"],
   principles: ["Ship early", "Obsess over UX", "Measure everything", "Keep learning"],
   contact: "yashvardhansingh.professional@gmail.com",
@@ -34,7 +36,9 @@ const yashvardhan = {
 
 - 🔭 Building **end-to-end products** with Next.js, Spring Boot and AI-powered features
 - 🎨 Crafting **motion-rich, responsive interfaces** with Tailwind CSS and GSAP
-- 🤖 Integrating **AI into real product workflows**, not just demos
+- 📱 Building **cross-platform mobile apps** with Flutter
+- 🔐 Securing backends with **Spring Security** (auth, roles, JWT)
+- 🤖 Integrating **AI into real product workflows**, with **PostgreSQL + vector search** behind them
 - 🐳 Shipping with **Docker, Kubernetes & CI/CD pipelines**
 - ☁️ Exploring **AWS / GCP & Infrastructure as Code**
 - 📫 Reach me at **yashvardhansingh.professional@gmail.com**
@@ -56,11 +60,19 @@ const yashvardhan = {
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+### 📱 Application Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🧠 AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Vector Search](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -78,6 +90,7 @@ const yashvardhan = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🗄️ Databases & Dev Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,12 +105,12 @@ const yashvardhan = {
 
 <div align="center">
 
-| 🎨 Product Frontend | ⚙️ Backend & Systems | 🤖 AI Features | 🐳 Ship & Scale |
-|:---:|:---:|:---:|:---:|
-| Next.js apps | Spring Boot services | LLM-powered workflows | Docker & Kubernetes |
-| Design-driven UI with Tailwind | REST API design | Model integration | CI/CD pipelines |
-| GSAP animations & micro-interactions | Database design | Data-backed insights | AWS / GCP |
-| Performance & accessibility | Auth & security basics | Prompt & pipeline design | Terraform & Ansible |
+| 🎨 Product Frontend | ⚙️ Backend & Security | 📱 App Development | 🤖 AI & Data | 🐳 Ship & Scale |
+|:---:|:---:|:---:|:---:|:---:|
+| Next.js apps | Spring Boot services | Flutter cross-platform apps | LLM-powered workflows | Docker & Kubernetes |
+| Design-driven UI with Tailwind | Spring Security, JWT & RBAC | Android & iOS from one codebase | PostgreSQL + vector search (RAG) | CI/CD pipelines |
+| GSAP animations & micro-interactions | REST API design | State management & API integration | Model integration | AWS / GCP |
+| Performance & accessibility | PostgreSQL schema design | Responsive mobile UX | Prompt & pipeline design | Terraform & Ansible |
 
 </div>
 
@@ -110,7 +123,10 @@ Next.js / React      ██████████████░░  85%
 Tailwind CSS         ███████████████░  90%
 GSAP & Motion        ██████████░░░░░░  65%
 Spring Boot          ██████████░░░░░░  65%
-SQL & Databases      ███████████████░  90%
+Spring Security      █████████░░░░░░░  55%
+Flutter / Dart       ██████████░░░░░░  65%
+PostgreSQL           ██████████████░░  85%
+Vector Search / RAG  █████████░░░░░░░  55%
 AI Integration       ██████████░░░░░░  65%
 Docker & K8s         ██████████░░░░░░  65%
 CI/CD Pipelines      ██████████░░░░░░  65%
