@@ -1,7 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117&height=220&section=header&text=Yashvardhan%20Singh&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Product%20Engineer%20%7C%20Full%20Stack%20%26%20App%20Dev%20%7C%20AI-Powered%20Products&descAlignY=58&descSize=18&descColor=6AD3F7&stroke=6AD3F7&strokeWidth=0.8)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I'm+Yashvardhan+%F0%9F%91%8B;Product+Engineer+%E2%80%94+idea+%E2%86%92+prototype+%E2%86%92+production;Next.js+%7C+Tailwind+%7C+GSAP+%E2%86%92+pixel-perfect+UIs;Spring+Boot+%7C+Spring+Security+%E2%86%92+secure+backends;Flutter+%E2%86%92+apps+for+Android+%26+iOS;PostgreSQL+%2B+pgvector+%E2%86%92+AI+that+remembers;Docker+%7C+Kubernetes+%7C+CI%2FCD+%E2%86%92+ship+with+confidence)](https://git.io/typing-svg)
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=180\&section=header\&text=Yashvardhan%20Singh\&fontSize=50\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38\&desc=Product%20Engineer%20%E2%80%94%20Build.%20Ship.%20Iterate.\&descAlignY=58\&descSize=17\&descColor=6AD3F7\&stroke=6AD3F7\&strokeWidth=0.8)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&duration=2800\&pause=1200\&color=6AD3F7\&center=true\&vCenter=true\&repeat=true\&width=900\&height=38\&lines=Hi%2C+I'm+Yashvardhan+%F0%9F%91%8B;Product+Engineer+%E2%80%94+idea+%E2%86%92+build+%E2%86%92+ship;Web+%7C+Mobile+%7C+Backend+%7C+Cloud+%7C+AI;Building+and+shipping+real-world+products)](https://git.io/typing-svg)
+
+
+
+
+
 
 <img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -149,25 +159,28 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ---
 
 ## 📅 Contribution Activity
 
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x&theme=tokyonight&hide_border=true&area=true)](https://github.com/yashvardhansingh-x5x)
+<a href="https://github.com/yashvardhansingh-x5x">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/yashvardhansingh-x5x">
+  <img height="180" src="https://streak-stats.demolab.com?user=yashvardhansingh-x5x&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+</a>
 
 </div>
+
+
+
+
 
 ---
 
