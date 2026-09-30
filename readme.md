@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Yashvardhan Singh - Product Engineer"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I'm+Yashvardhan+%F0%9F%91%8B;Product+Engineer+%E2%80%94+idea+%E2%86%92+prototype+%E2%86%92+production;Next.js+%7C+Tailwind+%7C+GSAP+%E2%86%92+pixel-perfect+UIs;Spring+Boot+%7C+Spring+Security+%E2%86%92+secure+backends;Flutter+%E2%86%92+apps+for+Android+%26+iOS;PostgreSQL+%2B+pgvector+%E2%86%92+AI+that+remembers;Docker+%7C+Kubernetes+%7C+CI%2FCD+%E2%86%92+ship+with+confidence)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/assets/header.svg" width="100%" alt="Yashvardhan Singh - Product Engineer"/>
+<img src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/assets/typing.svg" width="100%" alt="Typing animation"/>
 
 <img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -140,17 +140,17 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 <div align="center">
 
-<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-<img width="49%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+<img width="49%" src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
 
 <br/>
 
-<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
-<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img width="49%" src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+<img width="49%" src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 
 <br/>
 
-<img width="60%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+<img width="60%" src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
@@ -191,7 +191,7 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Build it. Ship it. Scale it."/>
+<img src="https://raw.githubusercontent.com/yashvardhansingh-x5x/yashvardhansingh-x5x/main/assets/footer.svg" width="100%" alt="Build it. Ship it. Scale it."/>
 
 **Thanks for visiting! — [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x)** 🚀
 </div>
