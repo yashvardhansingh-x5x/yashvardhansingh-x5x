@@ -155,7 +155,11 @@ Terraform/Ansible    ████████░░░░░░░░  50%
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img
+  width="50%"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&locale=en"
+  alt="Top Languages"
+/>
 
 </div>
 
