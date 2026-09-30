@@ -1,13 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=220\&section=header\&text=Yashvardhan%20Singh\&fontSize=52\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38\&desc=Product%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20Cloud%20%26%20DevOps\&descAlignY=58\&descSize=18\&descColor=6AD3F7\&stroke=6AD3F7\&strokeWidth=0.8)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=220\&section=header\&text=Yashvardhan%20Singh\&fontSize=52\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38\&desc=Product%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20Cloud%20%26%20DevOps\&descAlignY=58\&descSize=18\&descColor=6AD3F7\&stroke=6AD3F7\&strokeWidth=0.8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=22\&pause=1000\&color=6AD3F7\&center=true\&vCenter=true\&width=850\&lines=Product+Engineer+%7C+Building+End-to-End;Full+Stack+%7C+Next.js+%7C+Spring+Boot;AI-Powered+Products+%7C+Automation+%26+Intelligent+Systems;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;From+Idea+to+Production+%7C+Build+%7C+Ship+%7C+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=22\&pause=1200\&color=6AD3F7\&center=true\&vCenter=true\&width=850\&lines=Product+Engineer+%7C+Build+%7C+Ship+%7C+Scale;Full+Stack+%7C+Next.js+%7C+Spring+Boot;AI-Powered+Products+%7C+Intelligent+Systems;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;From+Product+Idea+to+Production)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;&nbsp;
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+  
+
 <a href="https://github.com/yashvardhansingh-x5x?tab=followers">
-  <img src="https://img.shields.io/github/followers/yashvardhansingh-x5x?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/yashvardhansingh-x5x?label=FOLLOWERS&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
 </a>
 
 </div>
@@ -17,117 +21,155 @@
 ## 👨‍💻 About Me
 
 ```python
-class Yashvardhan:
-    def __init__(self):
-        self.name = "Yashvardhan Singh"
-        self.location = "India 🇮🇳"
-        self.role = "Product Engineer"
+class YashvardhanSingh:
 
-        self.building = [
-            "Production-grade web applications",
-            "AI-powered product features",
-            "Scalable backend systems",
-            "Cloud-native infrastructure",
-            "Automated CI/CD pipelines"
-        ]
+    role = "Product Engineer"
+    location = "India 🇮🇳"
 
-        self.frontend = [
-            "Next.js",
-            "React",
-            "Tailwind CSS",
-            "GSAP"
-        ]
+    focus = [
+        "Product Engineering",
+        "Full-Stack Development",
+        "AI-Powered Products",
+        "Cloud & DevOps",
+        "System Design"
+    ]
 
-        self.backend = [
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "PostgreSQL",
-            "Redis"
-        ]
+    frontend = [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "GSAP"
+    ]
 
-        self.ai = [
-            "AI/ML",
-            "NLP",
-            "Intelligent Automation",
-            "AI-powered Product Features"
-        ]
+    backend = [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "PostgreSQL",
+        "Redis"
+    ]
 
-        self.devops = [
-            "Docker",
-            "Kubernetes",
-            "Jenkins",
-            "GitHub Actions",
-            "Nginx",
-            "Linux",
-            "Terraform",
-            "AWS",
-            "GCP"
-        ]
+    infrastructure = [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GitHub Actions",
+        "Nginx",
+        "Linux",
+        "Terraform",
+        "AWS",
+        "GCP"
+    ]
 
-        self.engineering = [
-            "System Design",
-            "API Design",
-            "Database Design",
-            "Performance",
-            "Security",
-            "Observability",
-            "CI/CD",
-            "Production Operations"
-        ]
+    engineering = [
+        "Scalable Architecture",
+        "API Design",
+        "Database Design",
+        "Security",
+        "Performance",
+        "Observability",
+        "CI/CD",
+        "Production Operations"
+    ]
 
-        self.contact = "yashvardhansingh.professional@gmail.com"
-
-    def build(self):
-        return "Idea → Product → Production → Scale"
-
-
-me = Yashvardhan()
-print(me.build())
+    philosophy = "Build it. Ship it. Scale it."
 ```
 
-### What I Do
+I build **production-ready digital products from idea to deployment** — working across frontend, backend, AI integrations, infrastructure and delivery.
 
-* 🚀 Build and ship **end-to-end production applications**
-* 🧩 Design **scalable frontend, backend and API architectures**
-* ⚡ Build modern interfaces with **Next.js, React, Tailwind CSS & GSAP**
-* ☕ Develop backend systems using **Java & Spring Boot**
-* 🤖 Integrate **AI into real-world products and workflows**
-* 🐳 Containerize and deploy applications using **Docker**
-* ☸️ Work with **Kubernetes, CI/CD and cloud infrastructure**
-* 🔐 Focus on **security, reliability, observability and maintainability**
-* 📈 Optimize products for **performance, scalability and real-world usage**
+* 🚀 Building scalable **full-stack products**
+* ⚡ Creating modern interfaces with **Next.js, React, Tailwind CSS & GSAP**
+* ☕ Developing backend systems with **Java & Spring Boot**
+* 🤖 Integrating **AI and intelligent automation** into products
+* 🗄️ Designing data layers with **PostgreSQL & Redis**
+* 🐳 Containerizing applications with **Docker**
+* ☸️ Automating deployment with **CI/CD & Kubernetes**
+* ☁️ Working with **AWS, GCP and cloud infrastructure**
+* 🔐 Engineering for **security, reliability and maintainability**
+* 📈 Optimizing systems for **performance and scalability**
 
 ---
 
-## 🏗️ Product Engineering
+## 🚀 Featured Product
+
+### PickSpool
+
+**A social media platform engineered as a production-grade full-stack product.**
+
+Building across the complete product lifecycle:
+
+```text
+Product
+   │
+   ├── Frontend
+   │     └── Next.js • React • TypeScript • Tailwind
+   │
+   ├── Backend
+   │     └── Java • Spring Boot • REST APIs
+   │
+   ├── Data
+   │     └── PostgreSQL • Redis
+   │
+   ├── AI
+   │     └── AI-powered moderation & intelligent services
+   │
+   ├── Infrastructure
+   │     └── Docker • Nginx • Linux
+   │
+   └── Delivery
+         └── Jenkins • CI/CD • Cloud • Monitoring
+```
+
+**Engineering focus**
+
+* Product architecture
+* Authentication & authorization
+* Social feeds and interactions
+* Real-time communication
+* Media handling
+* AI-powered moderation
+* API design
+* Database architecture
+* Caching & performance
+* Containerized deployment
+* Production CI/CD
+* Monitoring & reliability
+
+---
+
+## 🧠 Product Engineering
+
+I focus on the complete engineering lifecycle rather than a single layer of the stack.
 
 <div align="center">
 
-| 🎨 Product & Frontend | ⚙️ Backend & Systems | 🤖 AI & Intelligent Systems | ☁️ Infrastructure |
-| :-------------------: | :------------------: | :-------------------------: | :---------------: |
-|        Next.js        |         Java         |            AI/ML            |       Docker      |
-|         React         |      Spring Boot     |             NLP             |     Kubernetes    |
-|      Tailwind CSS     |       REST APIs      |        AI Integration       |      Jenkins      |
-|          GSAP         |      PostgreSQL      |          Automation         |   GitHub Actions  |
-|     Responsive UX     |         Redis        |     Intelligent Features    |     AWS / GCP     |
-|    State Management   |     System Design    |     AI-powered Products     |     Terraform     |
+|        Product       |  Application |  Platform  |
+| :------------------: | :----------: | :--------: |
+| Product Architecture |    Next.js   |   Docker   |
+|  Feature Engineering |     React    | Kubernetes |
+|   UX & Interaction   |  Spring Boot |   Jenkins  |
+|      API Design      |   REST APIs  |    CI/CD   |
+|     Data Modeling    |  PostgreSQL  |    Nginx   |
+|    AI Integration    |     Redis    |    Linux   |
+|      Performance     |  TypeScript  |  AWS / GCP |
+|       Security       | Tailwind CSS |  Terraform |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 🎨 Frontend & Product UI
+### 🎨 Frontend & Product Experience
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### ⚙️ Backend & Data
 
@@ -135,15 +177,14 @@ print(me.build())
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🤖 AI
+### 🤖 AI & Intelligent Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
@@ -154,11 +195,10 @@ print(me.build())
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-### 🔧 Engineering & Tooling
+### 🔧 Engineering Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
@@ -168,92 +208,101 @@ print(me.build())
 
 ---
 
-## 🎯 Current Focus
+## 🏗️ Engineering Capabilities
 
 <div align="center">
 
-|   🧱 Product Engineering   |     🤖 AI Engineering     |  ☁️ Platform Engineering |
-| :------------------------: | :-----------------------: | :----------------------: |
-|     Full-Stack Products    |    AI-powered Features    |    Docker & Kubernetes   |
-|    Next.js Applications    | NLP & Intelligent Systems |     CI/CD Automation     |
-|      Spring Boot APIs      |       AI Integration      |   Cloud Infrastructure   |
-|    Scalable Architecture   |    Workflow Automation    |  Infrastructure as Code  |
-|      Performance & UX      |     Model Integration     | Monitoring & Reliability |
-| Security & Maintainability |       Production AI       |   Deployment Automation  |
+| 🧩 Application Engineering | 🏛️ Architecture | ⚙️ Platform Engineering |
+| :------------------------- | :--------------- | :---------------------- |
+| Next.js Applications       | System Design    | Docker                  |
+| Spring Boot Services       | API Architecture | Kubernetes              |
+| REST APIs                  | Database Design  | Jenkins                 |
+| Authentication             | Scalability      | CI/CD                   |
+| Real-Time Systems          | Caching          | Nginx                   |
+| State Management           | Performance      | Linux                   |
+| Responsive UX              | Security         | Cloud Infrastructure    |
+| AI Integration             | Reliability      | Infrastructure as Code  |
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## 🔄 From Idea to Production
 
 ```text
-                    ┌─────────────────────────┐
-                    │       PRODUCT IDEA      │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     PRODUCT DESIGN      │
-                    │   UX • Architecture     │
-                    └────────────┬────────────┘
-                                 │
-                 ┌───────────────┴───────────────┐
-                 ▼                               ▼
-        ┌─────────────────┐             ┌─────────────────┐
-        │    FRONTEND     │             │     BACKEND     │
-        │ Next.js • React │◄───────────►│ Spring Boot     │
-        │ Tailwind • GSAP │             │ PostgreSQL      │
-        └────────┬────────┘             │ Redis           │
-                 │                      └────────┬────────┘
-                 │                               │
-                 └───────────────┬───────────────┘
-                                 ▼
-                    ┌─────────────────────────┐
-                    │      AI / SERVICES      │
-                    │ AI • Automation • NLP   │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       CONTAINERS        │
-                    │         Docker           │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     CI/CD & CLOUD       │
-                    │ Jenkins • GitHub Actions │
-                    │ AWS • GCP • Kubernetes   │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       PRODUCTION        │
-                    │  Monitor • Optimize     │
-                    │       • Scale            │
-                    └─────────────────────────┘
+                    ┌──────────────────────┐
+                    │      PRODUCT IDEA   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   PRODUCT DESIGN    │
+                    │ UX • Requirements   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+              ┌────────────────────────────────┐
+              │        APPLICATION LAYER       │
+              │                                │
+              │  Next.js  ◄──────► Spring Boot │
+              │  React             REST APIs   │
+              │  Tailwind          PostgreSQL  │
+              │  GSAP              Redis       │
+              └────────────────┬───────────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   AI & SERVICES      │
+                    │ AI • Automation      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     CONTAINERIZE     │
+                    │        Docker        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    CI/CD PIPELINE    │
+                    │ Jenkins • GitHub     │
+                    │ Actions              │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      PRODUCTION      │
+                    │ Deploy • Monitor     │
+                    │ Optimize • Scale     │
+                    └──────────────────────┘
 ```
 
 ---
 
-## 📈 Engineering Focus
+## 📌 What I Care About
 
 ```text
-Product Engineering      ███████████████░  90%
-Full-Stack Development   ███████████████░  90%
-Backend Engineering      ██████████████░░  85%
-Frontend Engineering     ███████████████░  90%
-AI Engineering           ████████████░░░░  75%
-Docker & Kubernetes      ███████████░░░░░  70%
-CI/CD & Automation       ████████████░░░░  75%
-Cloud Infrastructure     ██████████░░░░░░  65%
-System Design             ███████████░░░░░  70%
+Product Thinking
+      ↓
+Clean Architecture
+      ↓
+Maintainable Code
+      ↓
+Reliable Systems
+      ↓
+Automated Delivery
+      ↓
+Production Observability
+      ↓
+Continuous Improvement
 ```
+
+> **Good engineering is not just about writing code.
+> It is about turning problems into reliable products.**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -263,7 +312,7 @@ System Design             ███████████░░░░░  70%
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -289,29 +338,43 @@ System Design             ███████████░░░░░  70%
 
 ---
 
-## 💡 Engineering Philosophy
+## 💡 Engineering Principles
 
 <div align="center">
 
-> **Build products, not just features.**
-> **Solve problems, not just tickets.**
-> **Ship fast, engineer responsibly, and scale deliberately.**
+**Build products, not just features.**
+
+**Design for scale, but engineer for reality.**
+
+**Automate what should not be manual.**
+
+**Measure before optimizing.**
+
+**Ship → Observe → Improve → Scale.**
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yashvardhan-singh-data)
+<a href="https://www.linkedin.com/in/yashvardhan-singh-data">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yashvardhansingh-x5x)
+<a href="https://github.com/yashvardhansingh-x5x">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yashvardhansingh.professional@gmail.com)
+<a href="mailto:yashvardhansingh.professional@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/yashvardhansingh05)
+<a href="https://www.kaggle.com/yashvardhansingh05">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
 </div>
 
@@ -319,9 +382,10 @@ System Design             ███████████░░░░░  70%
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=100\&section=footer\&text=Build%20it.%20Ship%20it.%20Scale%20it.\&fontSize=16\&fontColor=6AD3F7\&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=110\&section=footer\&text=Build%20it.%20Ship%20it.%20Scale%20it.\&fontSize=17\&fontColor=6AD3F7\&animation=twinkling)
 
 **Yashvardhan Singh**
+
 *Product Engineer • Full Stack • AI • Cloud & DevOps*
 
 </div>
