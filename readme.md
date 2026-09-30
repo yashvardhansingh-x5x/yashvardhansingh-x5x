@@ -1,240 +1,278 @@
 <div align="center">
 
-Yashvardhan Singh
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,30:0f1e3d,60:0a1628,100:0d1117\&height=220\&section=header\&text=Yashvardhan%20Singh\&fontSize=52\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38\&desc=Product%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20DevOps\&descAlignY=58\&descSize=18\&descColor=6AD3F7\&stroke=6AD3F7\&strokeWidth=0.8)
 
-Product Engineer · Full Stack · AI · Cloud & DevOps
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=22\&pause=1000\&color=6AD3F7\&center=true\&vCenter=true\&width=850\&lines=Product+Engineer;Full+Stack+%7C+Next.js+%7C+Spring+Boot;AI+Engineering+%7C+Intelligent+Products;Docker+%7C+Kubernetes+%7C+Cloud+Infrastructure;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Build+%E2%80%A2+Ship+%E2%80%A2+Scale)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/yashvardhansingh-x5x">
-    <img src="https://img.shields.io/badge/GitHub-yashvardhansingh--x5x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/yashvardhansingh">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yashvardhansingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Build+products+from+idea+to+production;Full+Stack+%7C+Next.js+%7C+Spring+Boot;AI-powered+products+%7C+Intelligent+systems;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;Design+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Scale" alt="Typing SVG">
-</p>
+<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://komarev.com/ghpvc/?username=yashvardhansingh-x5x&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+  
+
+<a href="https://github.com/yashvardhansingh-x5x?tab=followers">
+  <img src="https://img.shields.io/github/followers/yashvardhansingh-x5x?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+</a>
 
 </div>
 
-About
+---
 
-I’m a Product Engineer focused on turning product ideas into reliable, scalable software.
+## 👨‍💻 About Me
 
-My work sits across frontend, backend, AI, infrastructure, and production operations — with an emphasis on clean architecture, performance, security, automation, and shipping complete products.
+```java
+public class Yashvardhan {
 
-class ProductEngineer:
-    role = "Product Engineer"
+    String name = "Yashvardhan Singh";
+    String location = "India 🇮🇳";
 
-    focus = [
-        "Product Engineering",
-        "Full-Stack Development",
-        "AI-Powered Products",
-        "Cloud & DevOps",
+    String role = "Product Engineer";
+
+    String[] focus = {
+        "Full Stack Product Development",
+        "AI Engineering",
         "System Design",
-    ]
+        "Cloud & DevOps",
+        "Production Infrastructure"
+    };
 
-    stack = {
-        "frontend": ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP"],
-        "backend": ["Java", "Spring Boot", "REST APIs"],
-        "data": ["PostgreSQL", "Redis"],
-        "ai": ["Python", "TensorFlow", "Scikit-Learn"],
-        "infra": ["Docker", "Kubernetes", "Jenkins", "Nginx", "Linux"],
-        "cloud": ["AWS", "GCP"],
-    }
+    String[] frontend = {
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "GSAP",
+        "Framer Motion"
+    };
 
-    mindset = "Build → Ship → Measure → Improve → Scale"
+    String[] backend = {
+        "Spring Boot",
+        "Java",
+        "REST APIs",
+        "PostgreSQL",
+        "Redis"
+    };
 
-What I Build
+    String[] infrastructure = {
+        "Docker",
+        "Kubernetes",
+        "Nginx",
+        "Jenkins",
+        "GitHub Actions",
+        "Linux",
+        "Terraform",
+        "AWS",
+        "GCP"
+    };
 
-Area
+    String[] ai = {
+        "AI Integration",
+        "LLM Applications",
+        "NLP",
+        "AI Automation",
+        "Content Moderation"
+    };
 
-Focus
+    String philosophy =
+        "Build products people use. "
+        + "Engineer systems that scale. "
+        + "Ship with confidence.";
+}
+```
 
-Product Engineering
+I build **production-ready digital products** across the entire engineering lifecycle — from frontend architecture and backend APIs to infrastructure, CI/CD, observability, and AI-powered capabilities.
 
-From product idea and architecture to production deployment
+* 🔭 Building **full-stack products and scalable web applications**
+* ⚡ Engineering with **Next.js, React, Tailwind CSS & GSAP**
+* ☕ Building robust backend systems with **Java & Spring Boot**
+* 🤖 Integrating **AI/LLM capabilities into real-world products**
+* 🐳 Containerizing applications with **Docker**
+* ☁️ Working with **cloud infrastructure, Linux & production VPS environments**
+* 🔄 Designing **CI/CD pipelines with Jenkins & GitHub Actions**
+* 🗄️ Working with **PostgreSQL, Redis & relational data systems**
+* 🏗️ Interested in **system design, scalability, security & developer experience**
+* 📫 **[yashvardhansingh.professional@gmail.com](mailto:yashvardhansingh.professional@gmail.com)**
 
-Frontend
+---
 
-High-performance, responsive interfaces with Next.js, React & TypeScript
-
-Backend
-
-Production APIs and services with Java & Spring Boot
-
-AI
-
-AI-powered features, intelligent systems and moderation workflows
-
-Infrastructure
-
-Docker, Kubernetes, Nginx, Linux, CI/CD and cloud infrastructure
-
-Engineering
-
-System design, security, observability, performance and automation
-
-Featured Product
+## 🧩 Product Engineering Stack
 
 <div align="center">
 
-PickSpool
+### ⚛️ Frontend & Product UI
 
-A production-grade full-stack social media platform
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge\&logo=greensock\&logoColor=111111)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge\&logo=framer\&logoColor=white)
+
+### ☕ Backend & APIs
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### 🤖 AI Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B5563?style=for-the-badge\&logo=probot\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### 🗄️ Data & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### 🐳 DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+### 🛠️ Engineering Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
-PickSpool brings together a modern web frontend, Java backend services, PostgreSQL, Redis, AI-powered moderation, containerized infrastructure and automated deployment workflows.
+---
 
-Architecture
+## 🚀 What I Build
 
+<div align="center">
+
+|  Product Engineering | Backend Engineering |    AI Engineering    | Infrastructure |
+| :------------------: | :-----------------: | :------------------: | :------------: |
+| Next.js Applications |   Spring Boot APIs  |    AI Integrations   |     Docker     |
+|   Interactive UI/UX  |    Authentication   |   LLM Applications   |   Kubernetes   |
+|    Design Systems    |   Realtime Systems  |          NLP         |     Jenkins    |
+|   State Management   |  PostgreSQL & Redis |     AI Automation    |      Nginx     |
+|      Performance     |   API Architecture  |  Moderation Systems  |      CI/CD     |
+|     Production UX    |       Security      | Intelligent Features |      Cloud     |
+
+</div>
+
+---
+
+## 🏗️ Engineering Principles
+
+```text
 ┌─────────────────────────────────────────────────────────────┐
-│                         PICKSpool                            │
+│                    PRODUCT ENGINEERING                      │
 ├─────────────────────────────────────────────────────────────┤
-│  Next.js / React / TypeScript / Tailwind / GSAP             │
-│                         │                                   │
-│                         ▼                                   │
-│              REST APIs · Authentication                     │
-│                         │                                   │
-│                         ▼                                   │
-│             Java · Spring Boot · Services                   │
-│                    │              │                          │
-│                    ▼              ▼                          │
-│              PostgreSQL         Redis                        │
-│                    │              │                          │
-│                    └──────┬───────┘                          │
-│                           ▼                                  │
-│                 AI Moderation Services                       │
-│                           │                                  │
-│                           ▼                                  │
-│             Docker · Nginx · Linux · CI/CD                  │
+│                                                             │
+│   Product Thinking      →  Solve the right problem          │
+│   Architecture          →  Build for maintainability        │
+│   User Experience       →  Make complexity feel simple      │
+│   Performance           →  Optimize what matters            │
+│   Security              →  Protect users and systems         │
+│   Automation             →  Remove repetitive work            │
+│   Observability         →  Know what happens in production  │
+│   Scalability           →  Prepare systems for growth       │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
+```
 
-Technology
+---
 
-Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend technologies">
-</p>
-
-Next.js · React · TypeScript · Tailwind CSS · GSAP
-
-Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis" alt="Backend and data technologies">
-</p>
-
-Java · Spring Boot · REST APIs · PostgreSQL · Redis
-
-AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI technologies">
-</p>
-
-Python · TensorFlow · Scikit-Learn · NumPy · Pandas
-
-DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,linux,aws,gcp,terraform" alt="DevOps and cloud technologies">
-</p>
-
-Docker · Kubernetes · Jenkins · Nginx · Linux · AWS · GCP · Terraform
-
-Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Engineering tools">
-</p>
-
-Git · GitHub · VS Code
-
-Engineering Focus
-
-Product
-   │
-   ├── Discovery
-   ├── Architecture
-   ├── UX & Frontend
-   ├── APIs & Backend
-   ├── Data & Caching
-   ├── AI & Automation
-   ├── Infrastructure
-   ├── CI/CD
-   └── Observability
-            │
-            ▼
-       Production
-            │
-            ▼
-     Measure → Improve → Scale
-
-Principles
-
-Product first — engineering decisions should serve the product.
-
-Production minded — reliability, security and observability matter from day one.
-
-Simple architecture — avoid complexity until the product actually needs it.
-
-Automate repetition — CI/CD and infrastructure should reduce manual work.
-
-Performance matters — fast products create better user experiences.
-
-Build to scale — design clear boundaries so systems can evolve safely.
-
-GitHub
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh-x5x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=yashvardhansingh-x5x&theme=tokyonight&hide_border=true" alt="GitHub streak">
+| 🌐 Product Engineering |   🤖 AI Engineering   | ⚙️ Platform Engineering |
+| :--------------------: | :-------------------: | :---------------------: |
+|     Next.js & React    |  AI-powered products  |          Docker         |
+|   Tailwind CSS & GSAP  |    LLM integrations   |        Kubernetes       |
+|       Spring Boot      |    NLP & automation   |         Jenkins         |
+|  REST & Realtime APIs  |   Content moderation  |          CI/CD          |
+|   PostgreSQL & Redis   | Intelligent workflows |      Linux & Nginx      |
+|      System Design     |     Production AI     |   Cloud Infrastructure  |
 
 </div>
 
-Contribution Activity
+---
+
+## 📊 Engineering Areas
+
+```text
+Full Stack Engineering     ████████████████░░  90%
+Backend Engineering        ███████████████░░░  85%
+Frontend Engineering       ████████████████░░  90%
+System Design              █████████████░░░░░  75%
+DevOps & Infrastructure    ██████████████░░░░  80%
+Docker & Kubernetes        █████████████░░░░░  75%
+CI/CD & Automation         ███████████████░░░  85%
+AI Engineering             ████████████░░░░░░  70%
+Cloud Engineering          ███████████░░░░░░░  65%
+Security & Observability   ███████████░░░░░░░  65%
+```
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh-x5x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh-x5x&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansingh-x5x&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-Connect
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yashvardhansingh">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/yashvardhansingh-x5x">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:yashvardhansingh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashvardhansingh-x5x\&theme=tokyonight\&no-frame=true\&no-bg=true\&row=1\&column=7)
 
 </div>
+
+---
+
+## 📅 Contribution Activity
 
 <div align="center">
 
-Build. Ship. Scale.
-
-Turning ideas into production-grade products.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh-x5x\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/yashvardhansingh-x5x)
 
 </div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+> **Build products, not just features.**
+> **Engineer systems, not just code.**
+> **Ship reliably, iterate continuously.**
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yashvardhan-singh-data)
+
+[![GitHub](https://img.shields.io/badge/GitHub-1)]()
