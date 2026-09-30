@@ -188,8 +188,6 @@ flowchart LR
 
 </div>
 
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -200,9 +198,6 @@ flowchart LR
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashvardhansingh05)
 
 </div>
-
----
-
 <div align="center">
 
   **Thanks for visiting! — [Yashvardhan Singh](https://github.com/yashvardhansingh-x5x)** 🚀
